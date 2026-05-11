@@ -2,7 +2,7 @@
 
 Code accompanying the paper:
 
-"Performance and Energy Efficiency Analysis of TinyML Models for Precipitation Forecasting on Edge Devices"
+"Avaliação de Desempenho e Consumo Energético de TinyML em Dispositivos de Borda para Previsão de Precipitação"
 
 ## Models
 - TinyMLP
